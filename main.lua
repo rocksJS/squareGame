@@ -647,6 +647,7 @@ function harvestPlant(plant)
             )
 
             score = score + 1
+            seeds = seeds + 2
 
 
             showMessage(
